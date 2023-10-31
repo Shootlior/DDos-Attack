@@ -1,2 +1,0 @@
-# DDos-Attack
-ddos
